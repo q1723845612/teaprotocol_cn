@@ -12,8 +12,8 @@ description: '以下章节:'
 
 
 
-{% content-ref url="wo-le-jie-xiang-yao-guan-yu-tea/le-jie-cha-de-dai-bi-jing-ji-xue/" %}
-[le-jie-cha-de-dai-bi-jing-ji-xue](wo-le-jie-xiang-yao-guan-yu-tea/le-jie-cha-de-dai-bi-jing-ji-xue/)
+{% content-ref url="wo-le-jie-xiang-yao-guan-yu-tea/le-jie-tea-de-dai-bi-jing-ji-xue/" %}
+[le-jie-tea-de-dai-bi-jing-ji-xue](wo-le-jie-xiang-yao-guan-yu-tea/le-jie-tea-de-dai-bi-jing-ji-xue/)
 {% endcontent-ref %}
 
 
